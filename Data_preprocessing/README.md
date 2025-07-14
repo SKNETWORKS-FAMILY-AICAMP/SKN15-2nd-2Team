@@ -14,7 +14,7 @@ MS_PS, JW_PS, DH_PS : 전처리 파일
 
 """
 @ 순서 지키기
-- git clone 주소
+- git clone 주소 # 한번만!!!!!!!
 - git pull
 - git add <파일명>
 - git commit -m "<하고싶은말>"
