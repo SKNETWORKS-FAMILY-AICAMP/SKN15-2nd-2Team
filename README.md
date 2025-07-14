@@ -88,11 +88,11 @@
 
 # 5. 수행결과(분석 및 예측 결과)
 ## 📕 EDA
-# 결측치 확인
+### 결측치 확인
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/34e2b0a3-fd36-4797-9170-05ffa5937306" />
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/4f72ad48-019e-441f-b132-5ca0693ecc62" />
 
-# 이탈률과 각 데이터 컬럼 비교
+### 이탈률과 각 데이터 컬럼 비교
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/5f3c0ce3-6149-4358-9f40-ef53913af9e1" />
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/827599dd-dc93-473e-91ed-cd910b53e29c" />
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/f47fb451-636f-4f39-a4dd-6af3d04d9be3" />
@@ -117,14 +117,14 @@
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/4195275c-7a72-4fb0-bd27-2170209cb764" />
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/61498526-e3f0-41c3-b3d4-374baf468a0e" />
 
-# 모델 ROC 곡선
+### 모델 ROC 곡선
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/6db4e659-9582-4c92-8205-6271ec153dcf" />
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/50d216cf-903a-413f-bc89-90ddf04bf77f" />
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/97ebb2d3-b6e5-4b40-925e-6833830dfb79" />
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/1ad90c19-e6a2-4963-848c-201391e1b60e" />
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/276d7b57-b360-4f76-a886-43cba353c29d" />
 
-# Streamlit 구현
+### Streamlit 구현
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/11eb8766-807f-4256-8a53-43ab57a679c6" />
 
 
