@@ -10,3 +10,13 @@ MS_PS, JW_PS, DH_PS 3개로 구성 /
 Data_visualization  : 시각화 파일
 MS_PS, JW_PS, DH_PS : 전처리 파일 
 """
+
+
+"""
+@ 순서 지키기
+git clone 주소
+git pull
+git add <파일명>
+git commit -m "<하고싶은말>"
+git push -u origin
+"""
