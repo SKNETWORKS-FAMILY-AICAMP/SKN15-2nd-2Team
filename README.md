@@ -118,7 +118,7 @@
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/61498526-e3f0-41c3-b3d4-374baf468a0e" />
 
 ### 전처리 방법
-<img width="400" height="170" alt="Image" src="https://github.com/user-attachments/assets/06c6ef7a-94b8-4d6a-85ef-6d010567a17c" />
+<img width="600" height="225" alt="Image" src="https://github.com/user-attachments/assets/06c6ef7a-94b8-4d6a-85ef-6d010567a17c" />
 
 ### 모델 ROC 곡선
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/6db4e659-9582-4c92-8205-6271ec153dcf" />
